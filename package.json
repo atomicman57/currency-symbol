@@ -1,0 +1,37 @@
+{
+  "name": "currencies-symbol",
+  "version": "1.0.0",
+  "description": "A simple light package that returns a country currency numeric symbol and also list all countries currency",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomicman57/currencies-symbol.git"
+  },
+  "keywords": [
+    "Currency",
+    "Countries",
+    "Country",
+    "Dollar",
+    "Naira",
+    "World",
+    "Nodejs",
+    "Node",
+    "Symbol",
+    "Currencies",
+    "Numeric",
+    "Nigeria",
+    "Ghana",
+    "Naija",
+    "USA",
+    "USD",
+    "Cedis",
+    "NGN",
+    "GHC"
+  ],
+  "author": "Philips Blessing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atomicman57/currencies-symbol/issues"
+  },
+  "homepage": "https://github.com/atomicman57/currencies-symbol#readme"
+}

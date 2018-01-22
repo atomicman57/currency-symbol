@@ -1,7 +1,7 @@
 {
   "name": "currency-symbol",
-  "version": "1.0.4",
-  "description": "A simple light package that returns a country currency numeric symbol and also list all countries currency",
+  "version": "1.0.5",
+  "description": "A simple lightweight package that returns a country currency numeric symbol and also list all countries currency",
   "main": "index.js",
   "repository": {
     "type": "git",

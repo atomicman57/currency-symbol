@@ -5,7 +5,7 @@
 [![npm version](https://badge.fury.io/js/currency-symbol.svg)](https://www.npmjs.com/package/currency-symbol)
 
 
-A simple light package that returns a country currency numeric symbol and also list all countries currency with zero dependency.
+A simple lightweight package that returns a country currency numeric symbol and also list all countries currency with zero dependency.
 
 ### Installation
 

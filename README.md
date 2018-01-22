@@ -79,7 +79,7 @@ console.log(currencySymbol.symbol("Cedis")); //&#162;
 
 * Fork this repositry to your account.
 * Clone your repositry: git clone git@github.com:your-username/currency-symbol.git
-* Create your feature branch: git checkout -b feature/feature-id/<3-4 word feature description>
+* Create your feature branch: git checkout -b feature/<3-4 word feature description>
 * Commit your changes: git commit -m "feature(scope): (subject) <BLANK LINE> (body) <BLANK LINE> (footer)"
 * Push to the remote branch: git push origin new-feature
 * Open a pull request.

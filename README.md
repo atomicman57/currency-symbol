@@ -1,6 +1,6 @@
-# naija-state-local-government
+# Currencies symbol
 
-[![npm version](https://badge.fury.io/js/naija-state-local-government.svg)](https://www.npmjs.com/package/naija-state-local-government)
+[![npm version](https://badge.fury.io/js/currencies-symbol.svg)](https://www.npmjs.com/package/currencies-symbol)
 
 A simple light package that returns a country currency numeric symbol and also list all countries currency with zero dependency.
 

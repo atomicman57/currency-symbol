@@ -1,11 +1,11 @@
 {
-  "name": "currencies-symbol",
-  "version": "1.0.1",
+  "name": "currency-symbol",
+  "version": "1.0.2",
   "description": "A simple light package that returns a country currency numeric symbol and also list all countries currency",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atomicman57/currencies-symbol.git"
+    "url": "git+https://github.com/atomicman57/currency-symbol.git"
   },
   "keywords": [
     "Currency",
@@ -31,7 +31,7 @@
   "author": "Philips Blessing",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atomicman57/currencies-symbol/issues"
+    "url": "https://github.com/atomicman57/currency-symbol/issues"
   },
-  "homepage": "https://github.com/atomicman57/currencies-symbol#readme"
+  "homepage": "https://github.com/atomicman57/currency-symbol#readme"
 }

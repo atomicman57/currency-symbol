@@ -1,6 +1,6 @@
-# Currencies symbol
+# currency-symbol
 
-[![npm version](https://badge.fury.io/js/currencies-symbol.svg)](https://www.npmjs.com/package/currencies-symbol)
+[![npm version](https://badge.fury.io/js/currency-symbol.svg)](https://www.npmjs.com/package/currency-symbol)
 
 A simple light package that returns a country currency numeric symbol and also list all countries currency with zero dependency.
 
@@ -8,7 +8,7 @@ A simple light package that returns a country currency numeric symbol and also l
 
 ``` bash
 
-npm install currencies-symbol
+npm install currency-symbol
 
 ```
 
@@ -16,39 +16,39 @@ npm install currencies-symbol
 
 ``` Javascript
 //ES5
-const currenciesSymbol = require('currencies-symbol');
+const currencySymbol = require('currency-symbol');
 
 // ES6
-import currenciesSymbol from 'currencies-symbol';
+import currencySymbol from 'currency-symbol';
 
-console.log(currenciesSymbol.all());
+console.log(currencySymbol.all());
 // This will return all curriencies symbol
 
-console.log(currenciesSymbol.symbol("United States")); //&#36;
+console.log(currencySymbol.symbol("United States")); //&#36;
 // This will return '&#36;' which is $.
 
-console.log(currenciesSymbol.symbol("USD")); //&#36;
+console.log(currencySymbol.symbol("USD")); //&#36;
 // This will return '&#36;' which is $.
 
-console.log(currenciesSymbol.symbol("Dollar")); //&#36;
+console.log(currencySymbol.symbol("Dollar")); //&#36;
 // This will return '&#36;' which is $.
 
-console.log(currenciesSymbol.symbol("Nigeria")); //&#8358;
+console.log(currencySymbol.symbol("Nigeria")); //&#8358;
 // This will return '&#8358;' which is ₦.
 
-console.log(currenciesSymbol.symbol("NGN")); //&#8358;
+console.log(currencySymbol.symbol("NGN")); //&#8358;
 // This will return '&#8358;' which is ₦.
 
-console.log(currenciesSymbol.symbol("Naira")); //&#8358;
+console.log(currencySymbol.symbol("Naira")); //&#8358;
 // This will return '&#8358;' which is ₦.
 
-console.log(currenciesSymbol.symbol("GHC")); //&#162;
+console.log(currencySymbol.symbol("GHC")); //&#162;
 // This will return '&#162;' which is ¢
 
-console.log(currenciesSymbol.symbol("Ghana")); //&#162;
+console.log(currencySymbol.symbol("Ghana")); //&#162;
 // This will also return '&#162;' which is ¢
 
-console.log(currenciesSymbol.symbol("Cedis")); //&#162;
+console.log(currencySymbol.symbol("Cedis")); //&#162;
 // This will also return '&#162;' which is ¢.
 
 /***
@@ -65,9 +65,8 @@ console.log(currenciesSymbol.symbol("Cedis")); //&#162;
 
 | function    | argument                                            | response                                            |   |   |
 |-------------|-----------------------------------------------------|-----------------------------------------------------|---|---|
-| .all()      | none                                                | it returns all currencies symbol          |   |   |
-| .symbol(name)   | name(Country Name or Currency Name or Currency Abbreviation)                                                | it returns a symbol for a particular country or currency .                     |   |   |
-| 
+| .all()      | none                                                | it returns all currency symbol          |   |   |
+| .symbol(name)   | name(Country Name or Currency Name or Currency Abbreviation)                                                | it returns a symbol for a particular country or currency .
 ### Features
 - It lists all symbols for all curriencies in the world.
 - it returns symbol for a particular country/currency.
@@ -76,7 +75,7 @@ console.log(currenciesSymbol.symbol("Cedis")); //&#162;
 ## Contributing
 
 * Fork this repositry to your account.
-* Clone your repositry: git clone git@github.com:your-username/currencies-symbol.git
+* Clone your repositry: git clone git@github.com:your-username/currency-symbol.git
 * Create your feature branch: git checkout -b feature/feature-id/<3-4 word feature description>
 * Commit your changes: git commit -m "feature(scope): (subject) <BLANK LINE> (body) <BLANK LINE> (footer)"
 * Push to the remote branch: git push origin new-feature

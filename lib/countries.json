@@ -227,7 +227,7 @@
     {
       "currency": "India Rupee",
       "abbreviation": "INR",
-      "symbol": null
+      "symbol": "&#8377;"
     },
     {
       "currency": "Indonesia Rupiah",
@@ -517,7 +517,7 @@
     {
       "currency": "Turkey Lira",
       "abbreviation": "TRY",
-      "symbol": null
+      "symbol": "&#8378;"
     },
     {
       "currency": "Turkey Lira",
@@ -528,6 +528,11 @@
       "currency": "Tuvalu Dollar",
       "abbreviation": "TVD",
       "symbol": "&#36;"
+    },
+    {
+      "currency": "UAE",
+      "abbreviation": "AED",
+      "symbol": "د.إ"
     },
     {
       "currency": "Ukraine Hryvna",
@@ -574,4 +579,4 @@
       "abbreviation": "ZWD",
       "symbol": "&#90;&#36;"
     }
-  ]
+]
